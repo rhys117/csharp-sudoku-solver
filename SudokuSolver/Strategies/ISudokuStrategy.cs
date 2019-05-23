@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SudokuSolver.Stategies
+namespace SudokuSolver.Strategies
 {
     interface ISudokuStrategy
     {
