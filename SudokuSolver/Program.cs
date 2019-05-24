@@ -35,7 +35,6 @@ namespace SudokuSolver
             {
                 // In real world would log this message
                 Console.WriteLine($"Sudoku Puzzle cannot be solved because there was an error: {ex.Message}");
-
             }
         }
     }
